@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.env
+.venv/
+venv/
+yoomoney-api/build/
+yoomoney-api/dist/
+yoomoney-api/YooMoney.egg-info/
+yoomoney-api/**/__pycache__/
